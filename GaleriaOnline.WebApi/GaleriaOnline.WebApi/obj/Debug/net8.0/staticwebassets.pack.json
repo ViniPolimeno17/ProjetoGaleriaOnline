@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\imagens\\3cc5ec37-e4e2-41ca-8246-025571947693.jpg"
     },
     {
-      "Id": "C:\\Users\\47766024829\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg",
-      "PackagePath": "staticwebassets\\imagens\\e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg"
-    },
-    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

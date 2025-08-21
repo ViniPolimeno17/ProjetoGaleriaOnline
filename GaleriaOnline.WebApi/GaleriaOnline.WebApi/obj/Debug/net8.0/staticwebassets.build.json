@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uThyCljGrrcfR3CERSIpJSKvWW9dwj26FDNIbe9/4Eo=",
+  "Hash": "3zAgm/BxvilNUa09thaOid2TBIsHMQ3Gq4m5QPSAyPs=",
   "Source": "GaleriaOnline.WebApi",
   "BasePath": "_content/GaleriaOnline.WebApi",
   "Mode": "Default",
@@ -36,27 +36,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\3cc5ec37-e4e2-41ca-8246-025571947693.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\47766024829\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg",
-      "SourceId": "GaleriaOnline.WebApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\47766024829\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\",
-      "BasePath": "_content/GaleriaOnline.WebApi",
-      "RelativePath": "imagens/e8f42a61-bb7f-4be0-a471-244429a4f94c#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "64fheprsi3",
-      "Integrity": "OhevTbjac/m3hNV/4ULWNPdjjeXqJ7S6V78Jt0yCGLY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagens\\e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg"
     }
   ],
   "Endpoints": [
@@ -129,88 +108,6 @@
         {
           "Name": "Last-Modified",
           "Value": "Tue, 19 Aug 2025 18:48:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OhevTbjac/m3hNV/4ULWNPdjjeXqJ7S6V78Jt0yCGLY="
-        }
-      ]
-    },
-    {
-      "Route": "imagens/e8f42a61-bb7f-4be0-a471-244429a4f94c.64fheprsi3.jpg",
-      "AssetFile": "C:\\Users\\47766024829\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "309479"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OhevTbjac/m3hNV/4ULWNPdjjeXqJ7S6V78Jt0yCGLY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:54:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "64fheprsi3"
-        },
-        {
-          "Name": "label",
-          "Value": "imagens/e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OhevTbjac/m3hNV/4ULWNPdjjeXqJ7S6V78Jt0yCGLY="
-        }
-      ]
-    },
-    {
-      "Route": "imagens/e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg",
-      "AssetFile": "C:\\Users\\47766024829\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\e8f42a61-bb7f-4be0-a471-244429a4f94c.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "309479"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OhevTbjac/m3hNV/4ULWNPdjjeXqJ7S6V78Jt0yCGLY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 19 Aug 2025 17:54:15 GMT"
         },
         {
           "Name": "Cache-Control",

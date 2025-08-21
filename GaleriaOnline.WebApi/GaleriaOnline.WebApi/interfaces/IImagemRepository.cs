@@ -7,8 +7,8 @@ namespace GaleriaOnline.WebApi.interfaces
         Task<IEnumerable<Imagem>> GetAllAsync();
         Task<Imagem?> GetByIdAsync(int id);
         Task<Imagem> CreateAsync(Imagem imagem);
-        Task<bool?> UpdateAsync(Imagem imagem);
-        Task<bool?> DeleteAsync(int id);
+        Task<bool> UpdateAsync(Imagem imagem);
+        Task<bool> DeleteAsync(int id);
     }
 }
 
